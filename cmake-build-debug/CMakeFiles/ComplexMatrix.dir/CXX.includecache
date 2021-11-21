@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nagi/CLionProjects/ComplexMatrix/RationalNumber.cpp
+RationalNumber.h
+/Users/nagi/CLionProjects/ComplexMatrix/RationalNumber.h
+
+/Users/nagi/CLionProjects/ComplexMatrix/RationalNumber.h
+iostream
+-
+string
+-
+cmath
+-
+string
+-
+
